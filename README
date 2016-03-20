@@ -1,3 +1,14 @@
+
+Install mpich2
+```
+    $sudo yum install mpich2 mpich2-devel
+```
+
+```
+    make
+```
+
+
 Welcome to PLDA.
 
 PLDA is free software. Please see the file COPYING for details.
